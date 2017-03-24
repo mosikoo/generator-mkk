@@ -1,0 +1,29 @@
+{
+  "name": "<%= name %>",
+  "version": "<%= version %>",
+  "author": "<%= author %>",
+  "main": "<%= main %>",
+  "description": "<%= description %>",
+  "liscense": "<%= liscense %>",
+  "dependencies": {
+    "classnames": "^2.2.5",
+    "object-assign": "^4.1.1",
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "eslint": "^3.18.0",
+    "eslint-config-airbnb": "^14.1.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^4.0.0",
+    "eslint-plugin-react": "^6.10.0",
+    "cross-env": "^3.2.4",
+    "css-loader": "^0.27.3",
+    "express": "^4.15.2",
+    "less": "^2.7.2",
+    "less-loader": "^4.0.2",
+    "webpack": "^2.3.1",
+    "webpack-dev-middleware": "^1.10.1",
+    "webpack-hot-middleware": "^2.17.1"
+  }
+}
