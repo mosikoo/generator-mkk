@@ -81,7 +81,7 @@ class Generator extends yeoman {
       this.destinationPath(),
       this.props
     );
-this.log(this.templatePath('./.*'));
+
     this.fs.copy(
       this.templatePath('./.*'),
       this.destinationRoot()
